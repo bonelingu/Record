@@ -4,9 +4,12 @@
 
 ## 专业相关  
 ### 数据获取  
+#### 综合类
+*    [城市数据派](https://www.udparty.com)
 #### 地图有关 
 *    [Open Street Map](https://www.openstreetmap.org)  
-*    [百度地图个性在线编辑器](https://developer.baidu.com)
+*    [百度地图个性在线编辑器](https://developer.baidu.com)  
+*    [高德开放平台](https://lbs.amap.com/)
 ### 各大杂志官网  
 *    [现代城市研究](http://www.mur.cn/) & [在线投稿系统](http://www.mur.cn:81/ch/index.aspx)  
 
