@@ -20,7 +20,11 @@
 ### 设计有关  
 #### 图片素材  
 *    [虫部落图片搜索](http://image.chongbuluo.com/)  
+*    [觅元素](http://www.51yuansu.com/)  
+*    [花瓣](https://huaban.com)  
+
 ### 植物有关  
+
 ## 编程学习  
 *    [实验楼](https://www.shiyanlou.com/)  
 
