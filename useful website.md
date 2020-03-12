@@ -8,7 +8,7 @@
 *    [城市数据派](https://www.udparty.com)
 #### 地图有关 
 *    [Open Street Map](https://www.openstreetmap.org)  
-*    [百度地图个性在线编辑器](https://developer.baidu.com)  
+*    [百度地图个性在线编辑器](https://developer.baidu.com/map/custom/)  
 *    [高德开放平台](https://lbs.amap.com/)   
 *    [地理空间数据云](http://www.gscloud.cn/)  
 ### 各大杂志官网  
