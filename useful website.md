@@ -22,7 +22,7 @@
 *    [风景园林](http://www.lalavision.com/fjyl/ch/index.aspx)  
 *    [国际城市规划](http://upi-planning.org/?cl=sy&cb=sy) & [在线投稿](http://gwcg.cbpt.cnki.net/EditorCN/index.aspx?t=1&mid=gwcg)  
 *    [景观设计学](http://www.lafrontiers.com/)  
-
+-    [建筑遗产]本刊投稿邮箱jzyc.ha@tongji.edu.cn或jzyc.ha@mail.sciencep.com
 ### 设计相关 
 #### 图片类
 ##### 抠图
